@@ -1,6 +1,6 @@
 # The-Secret-Sharing-Schemes
 
-This interactive script demonstrates the Secret Sharing Schemes algorithm. Follow the instructions in the pdf to understand the algorithm.
+This interactive script demonstrates the Secret Sharing Schemes algorithm.
 
 Review the **SecretSharingSchemes Redacted.pdf** to understand the algorithm. 
 
